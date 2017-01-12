@@ -1,0 +1,3 @@
+kubernetes:
+  namespace: trashbin-errors
+  context: tier5
